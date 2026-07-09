@@ -1,5 +1,15 @@
 # AI Evaluation Portfolio
 
+![Version](https://img.shields.io/badge/version-1.0-blue)
+
+![License](https://img.shields.io/badge/license-MIT-green)
+
+![Status](https://img.shields.io/badge/status-active-success)
+
+![Documentation](https://img.shields.io/badge/docs-complete-blue)
+
+![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen)
+
 A practical portfolio demonstrating AI evaluation methodologies, rubric engineering, benchmark design, structured reporting, and quality assurance workflows.
 
 ---
